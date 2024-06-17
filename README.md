@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nihal193
+- 👋 Hi, I’m @Aadityansha verma
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning c programming
 - 💞️ I’m looking to collaborate on Restaurant project
